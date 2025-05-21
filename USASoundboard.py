@@ -4,7 +4,7 @@ import tkinter as tk
 folderpath=".\Sounds"
 
 boowav="\\Boos.wav"
-shortcheer="\\ShortCheer.wav" #No Short Cheer sound yet
+shortcheer="\\ShortCheer.wav"
 clapwhistle="\\ClapsAndWhistling.wav"
 laughwav="\\laugh.wav" 
 booUSA="\\BoosandShortUSA.wav"
