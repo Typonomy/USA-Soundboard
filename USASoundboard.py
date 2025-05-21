@@ -1,7 +1,7 @@
 import playsound
 import tkinter as tk
 
-folderpath="C:\\Users\\Lucas\\Documents\\Audacity"
+folderpath=".\Sounds"
 
 boowav="\\Boos.wav"
 shortcheer="\\ShortCheer.wav" #No Short Cheer sound yet
